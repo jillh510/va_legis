@@ -70,34 +70,7 @@
 <Placemark id="cb_2016_51_sldl_500k.kml">
 <name>&lt;at&gt;&lt;openparen&gt;51095&lt;closeparen&gt;</name>
 <visibility>1</visibility>
-<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
-<th>STATEFP</th>
-<td>51</td>
-</tr><tr bgcolor="">
-<th>SLDLST</th>
-<td>095</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AFFGEOID</th>
-<td>620L500US51095</td>
-</tr><tr bgcolor="">
-<th>GEOID</th>
-<td>51095</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>NAME</th>
-<td>95</td>
-</tr><tr bgcolor="">
-<th>LSAD</th>
-<td>LL</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>LSY</th>
-<td>2016</td>
-</tr><tr bgcolor="">
-<th>ALAND</th>
-<td>57676399</td>
-</tr><tr bgcolor="#E3E3F3">
-<th>AWATER</th>
-<td>38705911</td>
-</tr></table></center>]]></description>
+<description>District 95</description>
 <styleUrl>#KMLStyler</styleUrl>
 <ExtendedData>
 <SchemaData schemaUrl="#kml_schema_ft_cb_2016_51_sldl_500k">
