@@ -20,6 +20,22 @@
 <color>7fe1ca9e</color>
 </PolyStyle>
 </Style>
+<Style id="KMLStyler2">
+<IconStyle>
+<scale>0.8</scale>
+</IconStyle>
+<LabelStyle>
+<scale>1.0</scale>
+</LabelStyle>
+<LineStyle>
+<color>f00c822f</color>
+<width>2</width>
+<gx:labelVisibility>0</gx:labelVisibility>
+</LineStyle>
+<PolyStyle>
+<color>7f010a9e</color>
+</PolyStyle>
+</Style>
 <Schema name="cb_2016_51_sldl_500k" id="kml_schema_ft_cb_2016_51_sldl_500k">
 <SimpleField type="xsd:string" name="STATEFP">
 <displayName>STATEFP</displayName>
@@ -138,7 +154,7 @@
 <th>AWATER</th>
 <td>327265461</td>
 </tr></table></center>]]></description>
-<styleUrl>#KMLStyler</styleUrl>
+<styleUrl>#KMLStyler2</styleUrl>
 <ExtendedData>
 <SchemaData schemaUrl="#kml_schema_ft_cb_2016_51_sldl_500k">
 <SimpleData name="STATEFP">51</SimpleData>
