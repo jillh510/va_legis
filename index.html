@@ -13,21 +13,12 @@
       #map {
         float: left;
         height: 100%;
-        width: 79%;
-      }
-      #content-window {
-        float: left;
-        font-family: 'Roboto','sans-serif';
-        height: 100%;
-        line-height: 30px;
-        padding-left: 10px;
-        width: 19%;
+        width: 100%;
       }
     </style>
   </head>
   <body>
     <div id="map"></div>
-    <div id="content-window"></div>
     <script>
 
       function initMap() {
@@ -39,26 +30,7 @@
           url: 'https://jillh510.github.io/va_legis/restored.kml',
           map: map
         });
-        /*
-         var kmlLayer = new google.maps.KmlLayer({
-          url: 'https://jillh510.github.io/va_legis/restored.kml',
-          suppressInfoWindows: true,
-          map: map
-        });
-        */
 
-        /*
-        kmlLayer.addListener('click', function(kmlEvent) {
-          var text = kmlEvent.featureData.description;
-          showInContentWindow(text);
-        });
-        */
-/*
-        function showInContentWindow(text) {
-          var sidediv = document.getElementById('content-window');
-          sidediv.innerHTML = text;
-        }
-        */
       }
     </script>
     <script async defer
