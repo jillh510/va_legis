@@ -39,9 +39,9 @@
 <Folder id="kml_ft_cb_2016_51_sldl_500k">
 <name>cb_2016_51_sldl_500k</name>
 <Placemark id="cb_2016_51_sldl_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;51095&lt;closeparen&gt;</name>
+<name>&lt;at&gt;&lt;openparen&gt;District 95&lt;closeparen&gt;</name>
 <visibility>1</visibility>
-<description>District 95</description>
+  <description>![CDATA[<center><a href='google.com'>Link</a>></center>]]</description>
 <styleUrl>#KMLStyler</styleUrl>
 <Polygon>
 <extrude>0</extrude>
