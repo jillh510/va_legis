@@ -39,9 +39,9 @@
 <Folder id="kml_ft_cb_2016_51_sldl_500k">
 <name>cb_2016_51_sldl_500k</name>
 <Placemark id="cb_2016_51_sldl_500k.kml">
-<name>&lt;at&gt;&lt;openparen&gt;District 95&lt;closeparen&gt;</name>
+<name>&lt;at&gt;&lt;openparen&gt;Jane Doe for District 95&lt;closeparen&gt;</name>
 <visibility>1</visibility>
-  <description><![CDATA[<center><img src="https://jillh510.github.io/va_legis/linked_in_headshot_2012.png" alt="Candidate photo" height="52" width ="52"><a href='https://www.google.com'>Candidate web page</a></center>]]></description>
+  <description><![CDATA[<center><img src="https://jillh510.github.io/va_legis/linked_in_headshot_2012.png" alt="Candidate photo" height="52" width ="52"><p>Jane Doe needs</p><p>Graphic Designer (1 hour per week)</p><p>Phone bank tech support (ongoing)</p><a href='https://www.google.com'>Candidate web page</a></center>]]></description>
 <styleUrl>#KMLStyler</styleUrl>
 <Polygon>
 <extrude>0</extrude>
