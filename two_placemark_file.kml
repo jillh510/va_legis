@@ -33,11 +33,9 @@
 <gx:labelVisibility>0</gx:labelVisibility>
 </LineStyle>
 <PolyStyle>
-<color>7f010a9e</color>
+<color>7f010a0e</color>
 </PolyStyle>
 </Style>
-<Folder id="kml_ft_cb_2016_51_sldl_500k">
-<name>cb_2016_51_sldl_500k</name>
 <Placemark id="cb_2016_51_sldl_500k.kml_95">
 <name>&lt;at&gt;&lt;openparen&gt;Jane Doe for District 95&lt;closeparen&gt;</name>
 <visibility>1</visibility>
@@ -100,5 +98,4 @@
 </outerBoundaryIs>
 </Polygon>
 </Placemark>
-</Folder>
 </Document></kml>
