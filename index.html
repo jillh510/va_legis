@@ -35,22 +35,30 @@
           zoom: 10,
           center: {lat: 37.5407, lng: -77.436}
         });
-
+        var kmlLayer = new google.maps.KmlLayer({
+          url: 'https://jillh510.github.io/va_legis/restored.kml',
+          map: map
+        });
+        /*
          var kmlLayer = new google.maps.KmlLayer({
           url: 'https://jillh510.github.io/va_legis/restored.kml',
           suppressInfoWindows: true,
           map: map
         });
+        */
 
+        /*
         kmlLayer.addListener('click', function(kmlEvent) {
           var text = kmlEvent.featureData.description;
           showInContentWindow(text);
         });
-
+        */
+/*
         function showInContentWindow(text) {
           var sidediv = document.getElementById('content-window');
           sidediv.innerHTML = text;
         }
+        */
       }
     </script>
     <script async defer
